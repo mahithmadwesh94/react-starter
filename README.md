@@ -1,4 +1,4 @@
-# Getting Started with Started React App
+# Getting Started with Starter React App
 
 This project is created as started template for project
 
